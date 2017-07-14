@@ -10,7 +10,7 @@ namespace SophiaPractice
     {
         static void Main(string[] args)
         {
-            var helloWorld = "Goodbye Michelle";
+            var helloWorld = "Goodbye Sophia branch";
             Console.WriteLine(helloWorld);
             Console.ReadLine();
         }
